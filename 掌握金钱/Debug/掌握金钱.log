@@ -1,0 +1,325 @@
+﻿生成启动时间为 2018/8/12 19:37:08。
+     1>项目“D:\Visual Studio 2015  C++ Projects\掌握金钱\掌握金钱\掌握金钱.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\掌握金钱.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AboutUs.cpp AcerAppear.cpp Add.cpp Animation.cpp ChangeSpped.cpp Clear.cpp CompareNum.cpp CompareTime.cpp CopperAppear.cpp CopperJump.cpp Function.cpp GetOption.cpp LoadOption.cpp main.cpp Menu.cpp OthAnimation.cpp PrintAll.cpp PrintLine.cpp PrintWord.cpp PutType.cpp Read.cpp ReadSortMoney.cpp ReadSortRemark.cpp ReadSortTime.cpp ReadType.cpp RecordOtherday.cpp RecordToday.cpp Register.cpp ScreenMoney.cpp ScreenRemark.cpp ScreenTime.cpp SearchbyMoney.cpp SearchbyRemark.cpp SearchbyTime.cpp setColor.cpp SetPos.cpp Sort.cpp Store.cpp Timerecord.cpp TypeRatio.cpp TypeSort.cpp
+         TypeSort.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typesort.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typesort.cpp(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         TypeRatio.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(128): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(151): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(160): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(169): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(178): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(194): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(195): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(196): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(197): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(99): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(100): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(192): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\typeratio.cpp(203): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+         Timerecord.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\timerecord.cpp(10): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+         Store.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\store.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         Sort.cpp
+         SetPos.cpp
+         setColor.cpp
+         SearchbyTime.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbytime.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbytime.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbytime.cpp(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbytime.cpp(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         SearchbyRemark.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbyremark.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbyremark.cpp(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         SearchbyMoney.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbymoney.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\searchbymoney.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         ScreenTime.cpp
+         ScreenRemark.cpp
+         ScreenMoney.cpp
+         Register.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(34): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(34): warning C4305: “初始化”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(35): warning C4838: 从“double”转换到“float”需要收缩转换
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(35): warning C4305: “初始化”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(64): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\register.cpp(152): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+         RecordToday.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordtoday.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordtoday.cpp(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordtoday.cpp(146): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordtoday.cpp(135): warning C4102: “Q”: 未引用的标签
+         RecordOtherday.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordotherday.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordotherday.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordotherday.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordotherday.cpp(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\recordotherday.cpp(151): warning C4102: “Q”: 未引用的标签
+         ReadType.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readtype.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         ReadSortTime.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsorttime.cpp(22): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         ReadSortRemark.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortremark.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         ReadSortMoney.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\readsortmoney.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         正在生成代码...
+         正在编译...
+         Read.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\read.cpp(17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         PutType.cpp
+         PrintWord.cpp
+         PrintLine.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\printline.cpp(59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         PrintAll.cpp
+         OthAnimation.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(13): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(14): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(39): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(64): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\othanimation.cpp(68): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+         Menu.cpp
+         main.cpp
+         LoadOption.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\loadoption.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\loadoption.cpp(9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\loadoption.cpp(10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\loadoption.cpp(11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\loadoption.cpp(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+         GetOption.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\getoption.cpp(47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\getoption.cpp(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+         Function.cpp
+         CopperJump.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(9): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperjump.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CopperAppear.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperappear.cpp(10): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperappear.cpp(14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperappear.cpp(18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperappear.cpp(22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\copperappear.cpp(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CompareTime.cpp
+         CompareNum.cpp
+         Clear.cpp
+         ChangeSpped.cpp
+         Animation.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\animation.cpp(14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\animation.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\animation.cpp(26): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+         Add.cpp
+         AcerAppear.cpp
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(14): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(19): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\visual studio 2015  c++ projects\掌握金钱\掌握金钱\acerappear.cpp(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在编译...
+         AboutUs.cpp
+         正在生成代码...
+       Link:
+         D:\Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio 2015  C++ Projects\掌握金钱\Debug\掌握金钱.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio 2015  C++ Projects\掌握金钱\Debug\掌握金钱.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio 2015  C++ Projects\掌握金钱\Debug\掌握金钱.lib" /MACHINE:X86 Debug\AboutUs.obj
+         Debug\AcerAppear.obj
+         Debug\Add.obj
+         Debug\Animation.obj
+         Debug\ChangeSpped.obj
+         Debug\Clear.obj
+         Debug\CompareNum.obj
+         Debug\CompareTime.obj
+         Debug\CopperAppear.obj
+         Debug\CopperJump.obj
+         Debug\Function.obj
+         Debug\GetOption.obj
+         Debug\LoadOption.obj
+         Debug\main.obj
+         Debug\Menu.obj
+         Debug\OthAnimation.obj
+         Debug\PrintAll.obj
+         Debug\PrintLine.obj
+         Debug\PrintWord.obj
+         Debug\PutType.obj
+         Debug\Read.obj
+         Debug\ReadSortMoney.obj
+         Debug\ReadSortRemark.obj
+         Debug\ReadSortTime.obj
+         Debug\ReadType.obj
+         Debug\RecordOtherday.obj
+         Debug\RecordToday.obj
+         Debug\Register.obj
+         Debug\ScreenMoney.obj
+         Debug\ScreenRemark.obj
+         Debug\ScreenTime.obj
+         Debug\SearchbyMoney.obj
+         Debug\SearchbyRemark.obj
+         Debug\SearchbyTime.obj
+         Debug\setColor.obj
+         Debug\SetPos.obj
+         Debug\Sort.obj
+         Debug\Store.obj
+         Debug\Timerecord.obj
+         Debug\TypeRatio.obj
+         Debug\TypeSort.obj
+         掌握金钱.vcxproj -> D:\Visual Studio 2015  C++ Projects\掌握金钱\Debug\掌握金钱.exe
+         掌握金钱.vcxproj -> D:\Visual Studio 2015  C++ Projects\掌握金钱\Debug\掌握金钱.pdb (Full PDB)
+       FinalizeBuildStatus:
+         正在删除文件“Debug\掌握金钱.tlog\unsuccessfulbuild”。
+         正在对“Debug\掌握金钱.tlog\掌握金钱.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Visual Studio 2015  C++ Projects\掌握金钱\掌握金钱\掌握金钱.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:17.19
